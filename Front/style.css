@@ -53,6 +53,19 @@ main{
     margin-left: 3em;
 }
 
+.edit{
+    padding: 1em;
+}
+
+#save-btn{
+    margin-left: 14em;
+}
+
+.edit .head{
+    margin-left: 6em;
+    width: 30px;
+}
+
 .tg  {
     border-collapse:collapse;
     border-spacing:0;
